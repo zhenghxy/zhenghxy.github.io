@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sharon Zheng</title>
+    <link>https://zhenghxy.github.io/posts/</link>
+    <description>Recent content in Posts on Sharon Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 29 Apr 2022 17:40:47 -0400</lastBuildDate><atom:link href="https://zhenghxy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://zhenghxy.github.io/posts/resume/</link>
+      <pubDate>Fri, 29 Apr 2022 17:40:47 -0400</pubDate>
+      
+      <guid>https://zhenghxy.github.io/posts/resume/</guid>
+      <description>Download Resume
+Hongxueyang (Sharon) Zheng EDUCATION Cornell University, College of Engineering, Ithaca, NY&amp;mdash;&amp;mdash;Expected December 2022
+Master of Engineering in Financial Engineering
+University of Wisconsin-Madison, Madison, WI&amp;mdash;&amp;mdash;December 2020
+Bachelor of Science in Mathematics &amp;amp; Economics (Double Major),
+Graduation with Distinction, GPA: 3.97
+Sun Yat-sen University, Guangzhou, China&amp;mdash;&amp;mdash;July 2018
+Bachelor of Science in Materials Science and Engineering
+Selected Coursework: Optimization, Simulation Modeling and Analysis, Machine Learning for Data Science, Monte Carlo Methods in Financial Engineering, Number Theory, Derivatives Securities, Portfolio Management, Financial Statement Analysis</description>
+    </item>
+    
+  </channel>
+</rss>

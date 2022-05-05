@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on Sharon Zheng</title>
+    <link>https://zhenghxy.github.io/courses/</link>
+    <description>Recent content in Courses on Sharon Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 May 2022 16:01:21 -0400</lastBuildDate><atom:link href="https://zhenghxy.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Selected Courses</title>
+      <link>https://zhenghxy.github.io/courses/selectedcourses/</link>
+      <pubDate>Tue, 03 May 2022 16:01:21 -0400</pubDate>
+      
+      <guid>https://zhenghxy.github.io/courses/selectedcourses/</guid>
+      <description>Selected Coursework: Math: Optimization, Number Theory, Mathematical Analysis, Game Theory, Stochastic Calculus;
+Coding &amp;amp; Analysis: Simulation Modeling and Analysis, Monte Carlo Methods in Financial Engineering, Machine Learning for Data Science, Big Data Technology, Statistics for Financial Engineering;
+Finance: Derivatives Securities, Investment&amp;amp;Portfolio Management, Financial Statement Analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sharon Zheng</title>
+    <link>https://zhenghxy.github.io/</link>
+    <description>Recent content on Sharon Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 May 2022 16:02:00 -0400</lastBuildDate><atom:link href="https://zhenghxy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Luminescent Membrane Sensor Design</title>
+      <link>https://zhenghxy.github.io/projects/3projectdescription/</link>
+      <pubDate>Tue, 03 May 2022 16:02:00 -0400</pubDate>
+      
+      <guid>https://zhenghxy.github.io/projects/3projectdescription/</guid>
+      <description>Luminescent Membrane Sensor Design  Mar. 2017 to Jul. 2018
+ Project Report
+    Synthesized the membrane sensor and tested for its stability, luminescence sensing and sensing mechanism within experimental groups and control groups.
+  Visualized the experiment data and finished the paper with other 6 teammates; had the result published on Journal of Photochemistry and Photobiology A: Chemistry, vol. 370, February 2019, pp. 51&amp;ndash;57. doi: 10.</description>
+    </item>
+    
+    <item>
+      <title>Time Series Forecast for 2020 Net Export</title>
+      <link>https://zhenghxy.github.io/projects/2projectdescription/</link>
+      <pubDate>Tue, 03 May 2022 16:02:00 -0400</pubDate>
+      
+      <guid>https://zhenghxy.github.io/projects/2projectdescription/</guid>
+      <description>Time Series Forecast for Net Export  Sep. to Nov. 2020
+ Project Report
+    Used Akaike Criterion to determine an Autoregressive Distributed Lag model with lagged values of 5 leading indicators, and conducted Forecast Combination with Granger-Ramanathan Combination Test.
+  Visualized the stability of coefficients by parallel Rolling and Recursive Estimation and added break points with statistical evidence of Chow test; checked the unbiasedness of the model through Mincer-Zarnowitz Test.</description>
+    </item>
+    
+    <item>
+      <title>Monte-Carlo Simulation Modeling</title>
+      <link>https://zhenghxy.github.io/projects/1projectdescription/</link>
+      <pubDate>Tue, 03 May 2022 16:02:00 -0400</pubDate>
+      
+      <guid>https://zhenghxy.github.io/projects/1projectdescription/</guid>
+      <description>New York Upstate Helicopter Emergency Transportation Modeling  Sep. to Dec. 2021
+ Project Report
+    Completed a simulation analysis of helicopter transport operations in the upstate New York area to help determine how many helicopters are needed and where they should be based.
+  Conducted empirical data analysis and fitted the input data for the distributions that are used in the simulation process.
+  Optimized the number of helicopters should be employed and locations of bases to minimize the average response time given the results from the model.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://zhenghxy.github.io/about-me/description/</link>
+      <pubDate>Tue, 03 May 2022 16:01:38 -0400</pubDate>
+      
+      <guid>https://zhenghxy.github.io/about-me/description/</guid>
+      <description>Hongxueyang (Sharon) Zheng  Hometown: Tsingtao, China/ Richmond, TX Undergrad Institutes: Sun Yat-sen University (Gunagzhou, China)/ University of Wisconsin-Madison (Madison, WI) Master&amp;rsquo;s Institute: Cornell University (Ithaca, NY) Majors I have taken: Material Science and Engineering; Mathematics; Economics; Financial Engineering Future Field: Financial Quantitative Analysis; Crypto; High Frequency Trading Contact Info:  email: hz295@cornell.edu
+  </description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://zhenghxy.github.io/description/</link>
+      <pubDate>Tue, 03 May 2022 16:01:38 -0400</pubDate>
+      
+      <guid>https://zhenghxy.github.io/description/</guid>
+      <description>Hongxueyang (Sharon) Zheng Hometown: Tsingtao  </description>
+    </item>
+    
+    <item>
+      <title>Selected Courses</title>
+      <link>https://zhenghxy.github.io/courses/selectedcourses/</link>
+      <pubDate>Tue, 03 May 2022 16:01:21 -0400</pubDate>
+      
+      <guid>https://zhenghxy.github.io/courses/selectedcourses/</guid>
+      <description>Selected Coursework: Math: Optimization, Number Theory, Mathematical Analysis, Game Theory, Stochastic Calculus;
+Coding &amp;amp; Analysis: Simulation Modeling and Analysis, Monte Carlo Methods in Financial Engineering, Machine Learning for Data Science, Big Data Technology, Statistics for Financial Engineering;
+Finance: Derivatives Securities, Investment&amp;amp;Portfolio Management, Financial Statement Analysis.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://zhenghxy.github.io/posts/resume/</link>
+      <pubDate>Fri, 29 Apr 2022 17:40:47 -0400</pubDate>
+      
+      <guid>https://zhenghxy.github.io/posts/resume/</guid>
+      <description>Download Resume
+Hongxueyang (Sharon) Zheng EDUCATION Cornell University, College of Engineering, Ithaca, NY&amp;mdash;&amp;mdash;Expected December 2022
+Master of Engineering in Financial Engineering
+University of Wisconsin-Madison, Madison, WI&amp;mdash;&amp;mdash;December 2020
+Bachelor of Science in Mathematics &amp;amp; Economics (Double Major),
+Graduation with Distinction, GPA: 3.97
+Sun Yat-sen University, Guangzhou, China&amp;mdash;&amp;mdash;July 2018
+Bachelor of Science in Materials Science and Engineering
+Selected Coursework: Optimization, Simulation Modeling and Analysis, Machine Learning for Data Science, Monte Carlo Methods in Financial Engineering, Number Theory, Derivatives Securities, Portfolio Management, Financial Statement Analysis</description>
+    </item>
+    
+  </channel>
+</rss>
